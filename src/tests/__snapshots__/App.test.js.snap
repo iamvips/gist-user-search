@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render and match snapshot 1`] = `
+<div
+  className="sc-bkkeKt grtncx App"
+  data-testid="app"
+>
+  <div
+    className="sc-hKwDye bUKynq"
+    data-testid="header"
+  >
+    <span
+      className="mega-octicon octicon-mark-github"
+    />
+    <div
+      className="sc-bdvvtL jcZpGJ"
+    >
+      <div
+        className="sc-gsDKAQ ldqIrX"
+      >
+        <span
+          className="octicon octicon-search"
+        />
+        <input
+          className="sc-dkPtRN lpkptG"
+          data-testid="search-input"
+          onChange={[Function]}
+          placeholder="Search Gists for the username"
+        />
+        <div
+          aria-busy="true"
+          className=""
+          style={Object {}}
+        >
+          <svg
+            aria-label="audio-loading"
+            height={25}
+            stroke="#00BFFF"
+            viewBox="0 0 44 44"
+            width={25}
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              fill="none"
+              fillRule="evenodd"
+              strokeWidth="2"
+            >
+              <circle
+                cx="22"
+                cy="22"
+                r={1}
+              >
+                <animate
+                  attributeName="r"
+                  begin="0s"
+                  calcMode="spline"
+                  dur="1.8s"
+                  keySplines="0.165, 0.84, 0.44, 1"
+                  keyTimes="0; 1"
+                  repeatCount="indefinite"
+                  values="1; 20"
+                />
+                <animate
+                  attributeName="strokeOpacity"
+                  begin="0s"
+                  calcMode="spline"
+                  dur="1.8s"
+                  keySplines="0.3, 0.61, 0.355, 1"
+                  keyTimes="0; 1"
+                  repeatCount="indefinite"
+                  values="1; 0"
+                />
+              </circle>
+              <circle
+                cx="22"
+                cy="22"
+                r={1}
+              >
+                <animate
+                  attributeName="r"
+                  begin="-0.9s"
+                  calcMode="spline"
+                  dur="1.8s"
+                  keySplines="0.165, 0.84, 0.44, 1"
+                  keyTimes="0; 1"
+                  repeatCount="indefinite"
+                  values="1; 20"
+                />
+                <animate
+                  attributeName="strokeOpacity"
+                  begin="-0.9s"
+                  calcMode="spline"
+                  dur="1.8s"
+                  keySplines="0.3, 0.61, 0.355, 1"
+                  keyTimes="0; 1"
+                  repeatCount="indefinite"
+                  values="1; 0"
+                />
+              </circle>
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+    <span
+      className="mega-octicon octicon-home"
+      data-testid="home-icon"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="sc-ksdxgE dJdmIR"
+    data-testid="no-results"
+  >
+    <svg
+      fill="currentColor"
+      height="2.5em"
+      stroke="currentColor"
+      strokeWidth="0"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+      viewBox="0 0 16 16"
+      width="2.5em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"
+      />
+    </svg>
+    <h2>
+      We couldn’t find any matching gists.
+    </h2>
+  </div>
+  <div
+    className="sc-hBUSln kkAFFm"
+    data-testid="app-footer"
+  >
+    <p>
+      Proudly developed by
+      <a
+        className="sc-fotOHu bxLnRr"
+        href="mailto:vipul.chawda@outlook.com"
+        title="You can reach out to me at vipul.chawda@outlook.com"
+      >
+        <span>
+          Vipul Chawda
+        </span>
+      </a>
+    </p>
+    © 2021 All rights reserved.
+  </div>
+</div>
+`;

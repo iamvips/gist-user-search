@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+<div
+  className="sc-bdvvtL jcZpGJ"
+>
+  <div
+    className="sc-gsDKAQ ldqIrX"
+  >
+    <span
+      className="octicon octicon-search"
+    />
+    <input
+      className="sc-dkPtRN lpkptG"
+      data-testid="search-input"
+      onChange={[Function]}
+      placeholder="Search Gists for the username"
+    />
+  </div>
+</div>
+`;

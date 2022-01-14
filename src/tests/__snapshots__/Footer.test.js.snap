@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+<div
+  className="sc-bdvvtL ddZutC"
+  data-testid="app-footer"
+>
+  <p>
+    Proudly developed by
+    <a
+      className="sc-gsDKAQ hejFFD"
+      href="mailto:vipul.chawda@outlook.com"
+      title="You can reach out to me at vipul.chawda@outlook.com"
+    >
+      <span>
+        Vipul Chawda
+      </span>
+    </a>
+  </p>
+  © 2021 All rights reserved.
+</div>
+`;
